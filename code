@@ -1,0 +1,3 @@
+bool IsValidEmail(string email)
+{
+    try
